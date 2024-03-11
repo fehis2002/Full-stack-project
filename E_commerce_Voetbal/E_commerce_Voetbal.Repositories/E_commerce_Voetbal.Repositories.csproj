@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\E_Commerce_Voetbal.Domains\E_Commerce_Voetbal.Domains.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_commerce_Voetbal", "E_commerce_Voetbal\E_commerce_Voetbal.csproj", "{A5584719-642B-4993-A4FE-DE16644EE9E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_commerce_Voetbal", "E_commerce_Voetbal\E_commerce_Voetbal.csproj", "{A5584719-642B-4993-A4FE-DE16644EE9E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Commerce_Voetbal.Domains", "E_Commerce_Voetbal.Domains\E_Commerce_Voetbal.Domains.csproj", "{E5737B00-0429-4A6C-A238-8B8D338254EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_commerce_Voetbal.Repositories", "E_commerce_Voetbal.Repositories\E_commerce_Voetbal.Repositories.csproj", "{E97BC2B2-38C1-4D5D-BAA1-F5CC25A6EFAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Commerce_Voetbal.Services", "E_Commerce_Voetbal.Services\E_Commerce_Voetbal.Services.csproj", "{D29B04B4-7910-412C-96A2-71BBA9E39160}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{A5584719-642B-4993-A4FE-DE16644EE9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5584719-642B-4993-A4FE-DE16644EE9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5584719-642B-4993-A4FE-DE16644EE9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5737B00-0429-4A6C-A238-8B8D338254EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5737B00-0429-4A6C-A238-8B8D338254EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5737B00-0429-4A6C-A238-8B8D338254EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5737B00-0429-4A6C-A238-8B8D338254EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97BC2B2-38C1-4D5D-BAA1-F5CC25A6EFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97BC2B2-38C1-4D5D-BAA1-F5CC25A6EFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97BC2B2-38C1-4D5D-BAA1-F5CC25A6EFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97BC2B2-38C1-4D5D-BAA1-F5CC25A6EFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29B04B4-7910-412C-96A2-71BBA9E39160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29B04B4-7910-412C-96A2-71BBA9E39160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29B04B4-7910-412C-96A2-71BBA9E39160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29B04B4-7910-412C-96A2-71BBA9E39160}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

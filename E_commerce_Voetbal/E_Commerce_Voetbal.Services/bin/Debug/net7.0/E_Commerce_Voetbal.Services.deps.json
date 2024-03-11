@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "E_Commerce_Voetbal.Services/1.0.0": {
+        "dependencies": {
+          "E_Commerce_Voetbal.Domains": "1.0.0",
+          "E_commerce_Voetbal.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "E_Commerce_Voetbal.Services.dll": {}
+        }
+      },
+      "E_Commerce_Voetbal.Domains/1.0.0": {
+        "runtime": {
+          "E_Commerce_Voetbal.Domains.dll": {}
+        }
+      },
+      "E_commerce_Voetbal.Repositories/1.0.0": {
+        "dependencies": {
+          "E_Commerce_Voetbal.Domains": "1.0.0"
+        },
+        "runtime": {
+          "E_commerce_Voetbal.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_Commerce_Voetbal.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_Commerce_Voetbal.Domains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_commerce_Voetbal.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

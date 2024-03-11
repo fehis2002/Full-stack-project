@@ -1,0 +1,17 @@
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_Commerce_Voetbal.Services.deps.json
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_Commerce_Voetbal.Services.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_Commerce_Voetbal.Services.pdb
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_Commerce_Voetbal.Domains.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_commerce_Voetbal.Repositories.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_Commerce_Voetbal.Domains.pdb
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\bin\Debug\net7.0\E_commerce_Voetbal.Repositories.pdb
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\refint\E_Commerce_Voetbal.Services.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\E_Commerce_Voetbal.Services.pdb
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Services\obj\Debug\net7.0\ref\E_Commerce_Voetbal.Services.dll
