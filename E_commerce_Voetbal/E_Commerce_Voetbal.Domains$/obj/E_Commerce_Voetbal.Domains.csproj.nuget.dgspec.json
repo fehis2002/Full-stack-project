@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj": {}
+    "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj": {
+    "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj",
+        "projectUniqueName": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj",
         "projectName": "E_Commerce_Voetbal.Domains",
-        "projectPath": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj",
-        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\obj\\",
+        "projectPath": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj",
+        "packagesPath": "C:\\Users\\diete\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\diete\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,6 +60,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -73,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

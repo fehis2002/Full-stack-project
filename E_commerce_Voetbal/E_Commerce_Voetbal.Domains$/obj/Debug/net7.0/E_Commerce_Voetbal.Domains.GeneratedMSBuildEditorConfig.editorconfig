@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Commerce_Voetbal.Domains_
-build_property.ProjectDir = C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\
+build_property.ProjectDir = C:\Users\diete\source\repos\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
