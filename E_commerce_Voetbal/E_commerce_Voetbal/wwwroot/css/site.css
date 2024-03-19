@@ -20,3 +20,18 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.matchLogo {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+}
+
+.table td, .table th {
+    text-align: center;
+}
+
+.table  td {
+    justify-content: center;
+    vertical-align: middle;
+}

@@ -27,3 +27,18 @@ C:\Users\diete\Source\Repos\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voe
 C:\Users\diete\Source\Repos\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.pdb
 C:\Users\diete\Source\Repos\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.genruntimeconfig.cache
 C:\Users\diete\Source\Repos\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\ref\E_Commerce_Voetbal.Domains.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\bin\Debug\net7.0\E_Commerce_Voetbal.Domains.deps.json
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\bin\Debug\net7.0\E_Commerce_Voetbal.Domains.runtimeconfig.json
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\bin\Debug\net7.0\E_Commerce_Voetbal.Domains.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\bin\Debug\net7.0\E_Commerce_Voetbal.Domains.pdb
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.sourcelink.json
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\refint\E_Commerce_Voetbal.Domains.dll
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.pdb
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\E_Commerce_Voetbal.Domains.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Bureaublad\2SD\Full stack development\fullstackproject2\Full-stack-project\E_commerce_Voetbal\E_Commerce_Voetbal.Domains$\obj\Debug\net7.0\ref\E_Commerce_Voetbal.Domains.dll

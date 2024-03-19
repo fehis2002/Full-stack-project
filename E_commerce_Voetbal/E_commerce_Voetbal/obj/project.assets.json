@@ -12421,19 +12421,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diete\\.nuget\\packages\\": {}
+    "C:\\Users\\fabia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\E_commerce_Voetbal.csproj",
+      "projectUniqueName": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\E_commerce_Voetbal.csproj",
       "projectName": "E_commerce_Voetbal",
-      "projectPath": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\E_commerce_Voetbal.csproj",
-      "packagesPath": "C:\\Users\\diete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\obj\\",
+      "projectPath": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\E_commerce_Voetbal.csproj",
+      "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12447,11 +12447,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj": {
-              "projectPath": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj"
+            "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj": {
+              "projectPath": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Domains$\\E_Commerce_Voetbal.Domains.csproj"
             },
-            "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Services\\E_Commerce_Voetbal.Services.csproj": {
-              "projectPath": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Services\\E_Commerce_Voetbal.Services.csproj"
+            "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Services\\E_Commerce_Voetbal.Services.csproj": {
+              "projectPath": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_Commerce_Voetbal.Services\\E_Commerce_Voetbal.Services.csproj"
             }
           }
         }

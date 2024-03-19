@@ -1,0 +1,65 @@
+﻿@model IEnumerable<E_commerce_Voetbal.ViewModels.MatchVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Matches</h1>
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.HomeTeam)
+                </th>
+                <th>
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AwayTeam)
+                </th>
+                <th>
+                    Time & Date
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Stadium)
+                </th>
+                <th>
+                </th>
+                @* <th>
+                    @Html.DisplayNameFor(model => model.Time)
+                </th>
+                <th></th> *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {<tr>
+                    <td>
+                        <img class="matchLogo" src="~/images/@Html.DisplayFor(modelItem => item.HomeTeamLogo)"/><br />
+                        @Html.DisplayFor(modelItem => item.HomeTeam)
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        <img class="matchLogo"  src="~/images/@Html.DisplayFor(modelItem => item.AwayTeamLogo)" /><br />
+                        @Html.DisplayFor(modelItem => item.AwayTeam)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Time.Hours):@Html.DisplayFor(modelItem => item.Time.Minutes) on @Html.DisplayFor(modelItem => item.Date.Day)/@Html.DisplayFor(modelItem => item.Date.Month)/@Html.DisplayFor(modelItem => item.Date.Year)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Stadium)
+                    </td>
+                    <td>
+                        <a asp-action=""><img src="~/images/ticket.png" /></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>There are no matches available!</p>
+}

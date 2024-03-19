@@ -1,255 +1,283 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_commerce_Voetbal.bundle.scp.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_commerce_Voetbal.bundle.scp.css",
       "PackagePath": "staticwebassets\\E_commerce_Voetbal.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\voetbal.png",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\club_brugge_logo.png",
+      "PackagePath": "staticwebassets\\images\\club_brugge_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\kaa_gent_logo.png",
+      "PackagePath": "staticwebassets\\images\\kaa_gent_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\krc_genk_logo.png",
+      "PackagePath": "staticwebassets\\images\\krc_genk_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\royal_antwerp_fc_logo.png",
+      "PackagePath": "staticwebassets\\images\\royal_antwerp_fc_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\rsc_anderlecht_logo.png",
+      "PackagePath": "staticwebassets\\images\\rsc_anderlecht_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\standard_liege_logo.png",
+      "PackagePath": "staticwebassets\\images\\standard_liege_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\ticket.png",
+      "PackagePath": "staticwebassets\\images\\ticket.png"
+    },
+    {
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\images\\voetbal.png",
       "PackagePath": "staticwebassets\\images\\voetbal.png"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\diete\\source\\repos\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\fabia\\OneDrive\\Bureaublad\\2SD\\Full stack development\\fullstackproject2\\Full-stack-project\\E_commerce_Voetbal\\E_commerce_Voetbal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
